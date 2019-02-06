@@ -6,7 +6,7 @@
   "repository": "",
   "author": "jestrade <jesuestrada@gmail.com>",
   "dependencies": {
-    "express": "~3.2.4",
+    "express": "^3.2.6",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-router-dom": "^4.3.1"
